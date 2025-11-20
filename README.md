@@ -18,10 +18,6 @@
 
 ##  Updates
 
-| Date | Update |
-|------|---------|
-| **2025-10-31** |  Added C++ deployment version (FastTracker_CPP). |
-| **2025-10-21** |  Added ROI and Cone handling functions source codes. |
 
 
 
