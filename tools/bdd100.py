@@ -22,7 +22,7 @@ IMAGE_EXT = [".jpg", ".jpeg", ".webp", ".bmp", ".png"]
 def make_parser():
     parser = argparse.ArgumentParser("FastTracker Demo!")
     parser.add_argument(
-        "demo", default="video", help="demo type, eg. image, video and webcam"
+        "demo", default="video", help="demo type, eg. image, video and bdd100k"
     )
     parser.add_argument("-expn", "--experiment-name", type=str, default=None)
     parser.add_argument("-n", "--name", type=str, default=None, help="model name")
